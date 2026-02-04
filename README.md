@@ -1,2 +1,0 @@
-# DiCaprio
-Interview prep guide
